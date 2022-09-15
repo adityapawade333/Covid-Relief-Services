@@ -1,0 +1,8 @@
+Covid Relief Services 
+1- open comment prompt and type Pip install mysql-connector-python
+
+2- username- root
+password- root 
+Open MySQL command client:
+create database covidrelief;
+use covidrelief;
